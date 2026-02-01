@@ -1,1 +1,3 @@
-# blackhole-raytracer
+This Repo is a complete distaster.  There are multiple mains, multiple Makefiles, and I don't even myself remember what's what anymore.  I think at least 50% of the files are unnecessary if your goal is just to render a black hole.  The code itself is also in serious need of a refactor.  But, if people actually use this and email me explaining their problems, I will read the emails, implement the changes, and this might gradually morph into something useable.
+
+The code also can't be run as is because it depends on various textures which, although I paid for on Adobe Stock images, I'm not sure if I can legally distribute the textures.  So, at minimum main (whichever main is the real main) will need to be modified to take in user supplied textures.  
